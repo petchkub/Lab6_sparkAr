@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "glassBG",
+  "identifier": "texture:91173-db781dab-4e40-45f1-b966-1d51c9ebc91f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8c672f4af5e2d3839877cb5118a2d0f3",
+  "assetLocator": "textures/glassBG.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 209,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 319,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8c672f4af5e2d3839877cb5118a2d0f3",
+      "colorCount": 24260,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 11.473469842402508,
+      "pixelsHigh": 209,
+      "pixelsWide": 319
+    }
+  ]
+}

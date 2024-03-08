@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "trafficBG",
+  "identifier": "texture:317718-97ff310d-9acd-4fbe-8cad-9144c0565314",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f3bb5b237c51066aea6581b522a8bba8",
+  "assetLocator": "textures/trafficBG.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 340,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 89,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f3bb5b237c51066aea6581b522a8bba8",
+      "colorCount": 7254,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.836736297166144,
+      "pixelsHigh": 340,
+      "pixelsWide": 89
+    }
+  ]
+}

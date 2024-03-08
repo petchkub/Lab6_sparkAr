@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "eiei",
+  "identifier": "texture:320286-97ff310d-9acd-4fbe-8cad-9144c0565314",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "9e38d7259abb7f2fa3e586935a57c4b6",
+  "assetLocator": "textures/eiei.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 400,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 300,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "9e38d7259abb7f2fa3e586935a57c4b6",
+      "colorCount": 17396,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.369642133033166,
+      "pixelsHigh": 400,
+      "pixelsWide": 300
+    }
+  ]
+}

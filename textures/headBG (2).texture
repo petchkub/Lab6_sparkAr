@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "headBG (2)",
+  "identifier": "texture:11503-db781dab-4e40-45f1-b966-1d51c9ebc91f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5adfb7e53be435f1da9109a6958d7678",
+  "assetLocator": "textures/headBG (2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 78,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 170,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5adfb7e53be435f1da9109a6958d7678",
+      "colorCount": 5750,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.120521879435692,
+      "pixelsHigh": 78,
+      "pixelsWide": 170
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "TreeBG(1)",
+  "identifier": "texture:317714-97ff310d-9acd-4fbe-8cad-9144c0565314",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "b59e191a9ee53ebe201b2d1907a93702",
+  "assetLocator": "textures/TreeBG(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 217,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 111,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "b59e191a9ee53ebe201b2d1907a93702",
+      "colorCount": 7543,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.2724745375474384,
+      "pixelsHigh": 217,
+      "pixelsWide": 111
+    }
+  ]
+}
